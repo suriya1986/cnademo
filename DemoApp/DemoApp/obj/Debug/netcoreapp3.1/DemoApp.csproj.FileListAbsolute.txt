@@ -1,0 +1,8 @@
+D:\CNA\DemoApp\DemoApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CNA\DemoApp\DemoApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CNA\DemoApp\DemoApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\CNA\DemoApp\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.AssemblyInfoInputs.cache
+D:\CNA\DemoApp\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.AssemblyInfo.cs
+D:\CNA\DemoApp\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.RazorTargetAssemblyInfo.cache
+D:\CNA\DemoApp\DemoApp\obj\Debug\netcoreapp3.1\staticwebassets\DemoApp.StaticWebAssets.Manifest.cache
+D:\CNA\DemoApp\DemoApp\obj\Debug\netcoreapp3.1\staticwebassets\DemoApp.StaticWebAssets.xml
